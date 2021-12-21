@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    color: white;
+}
+
+.page-header {
+    padding: 10px;
+    background: url(img/bg-header.jpg);
+    background-size: 100% 100%;
+}
+
+.main-nav {
+    font-size: 30px;
+    color: rgb(45, 224, 28);
+    text-align: left;
+    font-size: 35px;
+    list-style: none;
+}
+
+.btn {
+    font-size: 50px;
+    color: white;
+}
+
+.header-text b {
+    padding: 10px;
+    font-size: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.301);
+}
+
+A {
+    color: red; /* Цвет ссылок */
+   }
+   A:visited {
+    color: #cecece; /* Цвет посещенных ссылок */
+   }
+   A:active {
+    color: #ffff00; /* Цвет активных ссылок */
+   }
+  
+   h1{
+    color: white;
+    font-size: 50px;
+   }
+
+   .example{
+       padding: 50px;
+       background: url(img/disco.jpg) center;
+       background-blend-mode:darken;
+       background-color: rgba(192, 135, 13, 0.671);
+   }
+
+   .yellow-text{
+       color: rgb(255, 187, 0);
+   }
+
+   .intro{
+       padding-top: 50px;
+       font-size: 35px;
+   }
+
+   h2{
+       font-size: 50px;
+   }
+   
+   .price{
+    padding-top: 50px;
+    font-size: 35px;
+    background-color: rgba(82, 78, 75, 0.411);
+   }
+
+   h3 {
+       font-size: 35px;
+   }
